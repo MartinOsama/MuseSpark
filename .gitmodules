@@ -1,0 +1,6 @@
+[submodule "MuseSparkFrontend"]
+	path = MuseSparkFrontend
+	url = https://github.com/MartinOsama/MuseSparkFrontend.git
+[submodule "MuseSparkBackend"]
+	path = MuseSparkBackend
+	url = https://github.com/MartinOsama/MuseSparkBackend.git
